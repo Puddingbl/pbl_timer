@@ -1,0 +1,3 @@
+[submodule "pbl_components_base"]
+	path = pbl_components_base
+	url = https://github.com/Puddingbl/pbl_components_base.git
